@@ -172,7 +172,11 @@ java com.craftinginterpreters.lox.Lox <プログラム>
 
 [source,console]
 ----
-ここに、Loxを実行したときのコマンドライン、その動作結果をテキストで貼り付ける。
+> 1234
+1234.0
+NUMBER 1234 1234.0
+EOF  null
+
 ----
 
 作成できたら、一度「lox01」をコミットしなさい。
